@@ -2,7 +2,11 @@
 
 ## Overview
 
-TODO: Write a project description
+Basically we are learning some javascript functionality to create a ball eating game.
+
+Compiling: No need to compile
+
+Running: Use vs code live-preview to test the website
 
 ## Sources and Credits
 
